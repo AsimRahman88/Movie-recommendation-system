@@ -71,3 +71,9 @@ N
 > * R(𝑣,𝑖): Rating given by another user 
 𝑣 to movie 𝑖
 > * 𝑁: Total number of users who rated movie 𝑖
+
+* Key Learnings
+> * File operations for reading, writing, and validating user and movie data.
+> * Modular programming with structured functions for registration, rating, and recommendations.
+> * Collaborative filtering for personalized recommendations.
+> * Validation of user inputs and graceful error handling.
