@@ -1,4 +1,4 @@
-## Movie recommendation system
+Movie recommendation system
 
 To link all the c files together, “gcc main.c user.c display.c rateMovie.c recommendation.c” has to be typed.
 
